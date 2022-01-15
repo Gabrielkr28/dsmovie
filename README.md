@@ -3,4 +3,4 @@
 
 Link para acesso a página web:
 
-https://projeto-dsmovie-gk.netlify.app/form/1
+https://projeto-dsmovie-gk.netlify.app/
